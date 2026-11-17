@@ -1,124 +1,99 @@
-<h1 align="center">👋 Olá, eu sou Glicio Junior</h1>
+<h1 align="center">Glicio Junior</h1>
 
 <p align="center">
-  <strong>Fundador &amp; CTO da IAXYS</strong> · Arquitetura de Operações Inteligentes<br/>
-  Resolvo problemas complexos com soluções simples. Salvador, BA 🇧🇷
+  <strong>CEO &amp; CTO da <a href="https://www.iaxys.com.br">IAXYS</a></strong> · Arquitetura de Negócios e Plataformas Escaláveis<br/>
+  Estratégia, tecnologia e crescimento empresarial — operação que roda sozinha e escala sem perder controle.<br/>
+  📍 Salvador, BA 🇧🇷
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/glicio-ricardo-pires-oliveira-junior-888bba103/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://www.instagram.com/gjunioroliveira/">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
-  <a href="mailto:parceiro@parceirosolucoes.com.br">
-    <img src="https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail" />
-  </a>
-  <a href="https://agendamento.iaxys.com.br/home">
-    <img src="https://img.shields.io/badge/Agendar%20conversa-000000?style=for-the-badge&logo=googlecalendar&logoColor=white" alt="Agendar" />
-  </a>
+  <a href="https://www.linkedin.com/in/glicio-ricardo-pires-oliveira-junior-888bba103/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://www.instagram.com/gjunioroliveira/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+  <a href="mailto:glicio.oliveira@iaxys.com.br"><img src="https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail" /></a>
+  <a href="https://agendamento.iaxys.com.br/home"><img src="https://img.shields.io/badge/Agendar%20conversa-000000?style=for-the-badge&logo=googlecalendar&logoColor=white" alt="Agendar conversa" /></a>
 </p>
 
 ---
 
-Trabalho na interseção entre **tecnologia, gestão de times e automação de processos**. Meu foco não é código bonito — é operação que roda sozinha, integra o que estava separado e devolve tempo para as pessoas.
+## Sobre
 
-## 🚀 Sobre mim
+Executivo de tecnologia e empreendedor com **8+ anos** entre vendas consultivas de software, gestão comercial e liderança técnica. Hoje atuo como **CEO & CTO da IAXYS** e como **CTO de empresas parceiras** em fintech, legaltech, educação e construção civil — definindo arquitetura, liderando times e transformando necessidade de negócio em plataforma que escala.
 
-- 💼 **Fundador e CTO da [IAXYS](https://www.iaxys.com.br)** — software house de integração de processos, automação, IA aplicada e inteligência operacional para clientes corporativos.
-- 🔗 Especialista em **integração de sistemas** (ERP ⟷ CRM ⟷ Notion ⟷ WhatsApp), **automação serverless** e **IA aplicada a processos de negócio**.
-- 📄 Construo pipelines que processam documentos fiscais e contábeis, orquestram atendimento comercial e transformam dado bruto em decisão.
-- ⚙️ Foco em produtividade, clareza e performance — sem enrolação.
+Comecei do lado do cliente (SDR → executivo de contas → gerente comercial → sócio de franquia de ERP). Essa base é o que faz eu desenhar tecnologia pensando em **processo, margem e operação real**, não só em código.
 
-## 🧩 No que estou envolvido
+## O que eu entrego
 
-| Projeto | O que é |
+| Frente | Na prática |
 | --- | --- |
-| **IAXYS** | Arquitetura de operações inteligentes para empresas — integração, automação e IA aplicada |
-| **UnityPay** | [Infraestrutura financeira integrada](https://www.unitypay.com.br/) |
-| **UiDo** | Produto digital próprio |
-| **RecupNet** | Produto digital próprio |
-| **8Mais** | Produto digital próprio |
-| **TOP3** | Marketplace de acessórios automotivos com arquitetura de split de pagamentos (PIX, boleto, cartão) |
+| 🏗️ **Arquitetura de plataformas** | Sistemas escaláveis, seguros e resilientes, com alta disponibilidade e observabilidade |
+| 🔗 **Integração de sistemas** | APIs REST, webhooks e arquitetura orientada a eventos ligando ERP, CRM, pagamentos e canais de atendimento |
+| ⚙️ **Automação de processos** | Workflows serverless, ETL, RPA e rotinas financeiras/fiscais que eliminam trabalho manual |
+| 🤖 **IA aplicada** | Agentes conversacionais, LLMs com ferramentas, RAG e processamento inteligente de documentos |
+| 📊 **Dados & inteligência operacional** | Pipelines de dados, KPIs e dashboards para decisão executiva |
+| 🛡️ **Governança & segurança** | LGPD, criptografia, RBAC, auditoria, documentação técnica e gestão de propriedade intelectual |
 
-## 🛠️ Stack de trabalho
+## Experiência atual
 
-**Linguagens**
+| Empresa | Papel | Desde |
+| --- | --- | --- |
+| **[IAXYS](https://www.iaxys.com.br)** | CEO & CTO — software house de integração, automação e IA aplicada | 2021 |
+| **[UnityPay](https://www.unitypay.com.br/)** | CTO — infraestrutura financeira: BaaS, adquirência, PDV, Tap to Pay | jul/2025 |
+| **RecupNet** | CTO — operação jurídica 100% digital, escalando de 10 para 500 contratos/dia | ago/2025 |
+| **UniAbad** | CTO — sistema de gestão corporativa (financeiro, acadêmico, RH, compliance) | mai/2025 |
+| **UiDo** | CTO — plataforma mobile e web para profissionais da construção civil | mai/2025 |
+| **TUS** | CTO — arquitetura de sistemas, integrações e squads de desenvolvimento | abr/2024 |
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+<details>
+<summary><strong>Trajetória anterior</strong></summary>
 
-**Automação & Backend**
+<br/>
 
-![Pipedream](https://img.shields.io/badge/Pipedream-34D399?style=flat-square&logo=pipedream&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+| Período | Empresa | Papel |
+| --- | --- | --- |
+| 2020 – 2024 | Franquia Omie (Salvador) | Sócio, gerente de franquia e CTO |
+| 2020 – 2022 | Salvador Consultoria & Soluções | Sócio consultor |
+| 2019 – 2020 | Fortes Tecnologia | Gerente comercial |
+| 2018 – 2022 | Omie | Especialista de produto → SDR → executivo de contas → gerente comercial |
 
-**Frontend & Deploy**
+</details>
 
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
-![DigitalOcean](https://img.shields.io/badge/DigitalOcean-0080FF?style=flat-square&logo=digitalocean&logoColor=white)
-
-**Dados & Plataformas**
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-DD2C00?style=flat-square&logo=firebase&logoColor=white)
-![Notion](https://img.shields.io/badge/Notion%20API-000000?style=flat-square&logo=notion&logoColor=white)
-
-**IA & Integrações**
-
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
-![Anthropic](https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=anthropic&logoColor=white)
-![WhatsApp](https://img.shields.io/badge/Z--API%20(WhatsApp)-25D366?style=flat-square&logo=whatsapp&logoColor=white)
-![Omie](https://img.shields.io/badge/Omie%20ERP-0B5FFF?style=flat-square)
-![RD Station](https://img.shields.io/badge/RD%20Station%20CRM-19C1CE?style=flat-square)
-
-## 📊 O que você encontra por aqui
-
-| Frente | O que eu construo |
-| --- | --- |
-| **Automação de processos** | Workflows serverless, ETL, RPA e rotinas fiscais/contábeis que rodam sozinhas |
-| **Integrações** | ERP, CRM, Notion, agenda e APIs REST conversando entre si sem planilha no meio |
-| **IA aplicada** | Assistentes com LLMs, agentes de WhatsApp, processamento inteligente de documentos |
-| **Inteligência operacional** | Cockpits e dashboards que consolidam a operação num lugar só |
-| **Produtos próprios** | Ferramentas e templates que uso com clientes reais antes de publicar |
-
-## ✍️ Também escrevo sobre
-
-- Gestão ágil de times técnicos
-- Precificação por valor em projetos de tecnologia
-- Automação de rotinas empresariais com código
-- Desenvolvimento de produto com foco em negócio
-
-## 📈 GitHub em números
+## Competências
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SEU-USUARIO&show_icons=true&hide_border=true" alt="Estatísticas do GitHub" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO&layout=compact&hide_border=true" alt="Linguagens mais usadas" height="165" />
+  <img src="assets/competencias.svg" alt="Competências técnicas (autoavaliação, 0 a 100): Arquitetura de software 95; Integração de sistemas e APIs 95; Automação de processos 95; Liderança técnica e produto 90; Backend Python/Node.js 90; IA aplicada 85; Engenharia de dados e BI 80; Frontend React/Next.js 80; Cloud e DevOps 75; Segurança da informação e LGPD 75." width="100%" />
 </p>
 
-<!-- ⚠️ Troque SEU-USUARIO pelo seu username do GitHub nos dois links acima. -->
+<p align="center">
+  <img src="assets/linguagens.svg" alt="Linguagens nos projetos entregues, por número de repositórios da IAXYS: Python 89; CSS 80; TypeScript 76; JavaScript 70; HTML 33; SCSS 14." width="100%" />
+</p>
 
-## 📫 Contato
+## Stack técnica
 
-- 💼 **LinkedIn:** [glicio-ricardo-pires-oliveira-junior](https://www.linkedin.com/in/glicio-ricardo-pires-oliveira-junior-888bba103/)
-- 📸 **Instagram:** [@gjunioroliveira](https://www.instagram.com/gjunioroliveira/)
-- ✉️ **E-mail:** [parceiro@parceirosolucoes.com.br](mailto:parceiro@parceirosolucoes.com.br)
-- 📅 **Agendar uma conversa:** [agendamento.iaxys.com.br](https://agendamento.iaxys.com.br/home)
+| Área | Tecnologias |
+| --- | --- |
+| **Linguagens** | Python · TypeScript · JavaScript · SQL |
+| **Backend** | FastAPI · Flask · Node.js · REST · Webhooks · Arquitetura orientada a eventos |
+| **Frontend** | React · Next.js · Tailwind CSS |
+| **Dados** | PostgreSQL · MongoDB · ETL · Modelagem de dados |
+| **IA** | LLMs · Agentes com ferramentas · RAG · Prompt engineering |
+| **Infra & DevOps** | Docker · Serverless · CI/CD · Linux · Cloud |
+| **Práticas** | Arquitetura limpa · Testes · Versionamento Git · Documentação técnica · Ágil (Scrum/Kanban) |
+
+## Formação & certificações
+
+- 🎓 **Universidade Salvador (UNIFACS)**
+- 📜 Java Universe — IEEE (2017)
+- 📜 JavaFX — IEEE (2016)
+- 📜 Crisol — Software Livre
+
+## Escrevo sobre
+
+Gestão ágil de times técnicos · Precificação por valor em projetos de tecnologia · Automação de rotinas empresariais · Produto com foco em negócio
+
+> 💻 O código dos projetos fica na organização **[@IaxysTecnologia](https://github.com/IaxysTecnologia)**.
 
 ---
 
 <p align="center">
   <em>"Tecnologia é só o meio. O que importa é o impacto."</em>
-</p>
-
-<p align="center">
-  🚧 Em constante evolução — sempre aprendendo, sempre entregando.
 </p>
